@@ -11,7 +11,7 @@ Clone the repo:
 
     git clone https://github.com/flh4/Flask-API.git
 
-    cd flask-api-template
+    cd Flask-API
 
 Create virtualenv:
 
