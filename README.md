@@ -9,7 +9,7 @@ Usage
 
 Clone the repo:
 
-    git clone https://github.com/flh4/Python/code_snippets/web/APIs/flask_api
+    git clone https://github.com/flh4/Flask-API.git
 
     cd flask-api-template
 
