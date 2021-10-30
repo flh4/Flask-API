@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+.git/
+.vscode/
+flask_minimal.egg-info/
